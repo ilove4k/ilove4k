@@ -1,16 +1,13 @@
-### Hi there 👋
+# ilove4k系统
+#### 项目介绍
+ilove4k影音资讯网，类似百度4K吧，提供最新最专业的影视资讯和器材评测和专业的字幕下载。让新手不再问什么是4K和4K和高清的区别。给专来人士提供发挥平台。4K电影片源下载和4K HDR下载以及4K视频4K超高清4K分辨率4K壁纸等，影视资源。iLove4K是全国最大4K/8K资源下载网站：提供最新4K资源和最新的影音解决方案！QQ官方交流群：776760979。
+4K电影、蓝光电影、8K电影、UHD高清。
+#### 官方网站
+https://ilove4k.com
 
-<!--
-**ilove4k/ilove4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 软件架构
+基于php的discuzX开发
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 
